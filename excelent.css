@@ -29,14 +29,18 @@
   {width: auto;
       background-image:url(/CRTD.JS/intern/background.png);
 }
- h1{
+ .excelenth1{
     margin-left: 0%; margin-right: 12%; font-size:xx-large; font-weight:bolder;
+     
+      
+      
+  
  }
- h2{
+ .excelenth2{
     margin-left: 6%;
     font-size:x-large; font-weight:bolder;
  }
- p{
+ .para{
     margin-left: 6%; margin-right:6%; font-size:medium;
     font-style: oblique;
     text-indent: 0%;  
@@ -46,7 +50,7 @@
     
 
  }
- img{
+ .excelentimg{
     height: 10%;
     width: 10%;
     border:5%;
